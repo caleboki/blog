@@ -3,7 +3,7 @@
 
 ![alt tag](https://github.com/caleboki/Blog/raw/master/Blog.jpg)
 
-![alt tag](https://github.com/caleboki/Blog/raw/master/Blog_post.png)
+![alt tag](https://github.com/caleboki/Blog/raw/master/Blog_post.jpg)
 
 ![alt tag](https://github.com/caleboki/Blog/raw/master/Blog_tag.jpg)
 
